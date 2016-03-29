@@ -3,15 +3,22 @@ The implementation of the paper: ``Learning Polylingual Topic Models from Code-S
 
 ## Compile 
 the same as GibbsLDA++.
+
 cd src
+
 make
 
 ## Input data format 
 almost the same except we require an additional indicator on the language.
+    
     [M]
+    
     [document_1]
+    
     [document_2]
+    
     ...
+    
     [document_M]
 
   in which the first line is the total number for documents [M]. Each line 
