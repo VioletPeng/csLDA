@@ -2,12 +2,11 @@
 The implementation of the paper:
 
 **Learning Polylingual Topic Models from Code-Switched Social Media Documents**.
-
 Nanyun Peng, Yiming Wang and Mark Dredze
-
 *The Annual Meeting of the Association for Computational Linguistics (ACL)* 2014  
 
-To cite, please use the bibtex:
+If you use the code, please kindly cite the following bibtex:
+
 @inproceedings{peng2014learning,
   title={Learning Polylingual Topic Models from Code-Switched Social Media Documents.},
   author={Peng, Nanyun and Wang, Yiming and Dredze, Mark},
