@@ -1,5 +1,23 @@
 # csLDA
-The implementation of the paper: ``Learning Polylingual Topic Models from Code-Switched Social Media Documents".  Implementation adapted from GibbsLDA++ The README of GibbsLDA++ are attached for your reference.
+The implementation of the paper:
+
+**Learning Polylingual Topic Models from Code-Switched Social Media Documents**.
+
+Nanyun Peng, Yiming Wang and Mark Dredze
+
+*The Annual Meeting of the Association for Computational Linguistics (ACL)* 2014  
+
+To cite, please use the bibtex:
+@inproceedings{peng2014learning,
+  title={Learning Polylingual Topic Models from Code-Switched Social Media Documents.},
+  author={Peng, Nanyun and Wang, Yiming and Dredze, Mark},
+  booktitle={ACL (2)},
+  pages={674--679},
+  year={2014}
+}
+
+Implementation adapted from GibbsLDA++ The README of GibbsLDA++ are attached for your reference.
+To cite
 
 ## Compile 
 the same as GibbsLDA++.
